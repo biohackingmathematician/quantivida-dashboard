@@ -1,19 +1,2 @@
-streamlit==1.28.0
-plotly==5.17.0
-```
-4. Click **"Commit changes"**
-
-### **Step 5: Deploy to Streamlit Cloud**
-1. Go to: https://share.streamlit.io
-2. Click **"New app"**
-3. Sign in with GitHub
-4. Select:
-   - Repository: `quantivida-dashboard`
-   - Branch: `main`
-   - Main file path: `app.py`
-5. Click **"Deploy!"**
-
-### **Step 6: Get Your URL**
-Wait 2-3 minutes for deployment. You'll get a URL like:
-```
-https://quantivida-dashboard.streamlit.app
+streamlit
+plotly
